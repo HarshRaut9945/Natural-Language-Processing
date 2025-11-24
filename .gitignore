@@ -1,0 +1,22 @@
+# Ignore Python virtual environment
+venv/
+.env/
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore OS and editor files
+.DS_Store
+Thumbs.db
+
+*.pkl
+*.h5
+*.pkl
+*.pickle
+*.h5
+*.pt
+__pycache__/
+.env
